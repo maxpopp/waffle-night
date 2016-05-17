@@ -1,10 +1,7 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document url("https://waffle.io/mozilla/addons") {
-
-}
-
-.board .board-body .columns-ct{
+@-moz-document url("https://waffle.io") {
+  .board .board-body .columns-ct{
   background-color: rgb(44, 62, 80);
 }
 
@@ -39,3 +36,6 @@
 .board .board-body .column-ct .column .column-header .display-name{
   color:white;
 }
+
+}
+
